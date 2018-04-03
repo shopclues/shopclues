@@ -4,7 +4,7 @@ Shopclues is one of the leading e-commerce portals in India. It sells millions o
 
 **Features of the API**
 
-The shopclues product API is developed by the [eshopclues](http://eshopclues.in) coupons online portal. To use this API, you have to register with shopclues and get the access token. After that, this access token has to be used in your code. The features of this API are listed below:
+We have listed out the features of this API here. This shopclues API was designed by the online website [ishopclues](http://ishopclues.in) which is actually generates coupons and give discounts. To use this API, you have to register with shopclues and get the access token. After that, this access token has to be used in your code. The features of this API are listed below:
 
 With this API you can retrieve the list of all categories.
 In each category, we can get the number of items and the details of the products.
